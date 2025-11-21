@@ -8,6 +8,12 @@
 
 ---
 
+### 📺 Workflow Preview
+
+![ComfyUI Excel Loader Workflow](./Snipaste_2025-11-21_20-10-07.png)
+
+---
+
 <a name="english"></a>
 ## 📖 English
 
